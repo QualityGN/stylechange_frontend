@@ -1,0 +1,14 @@
+[1215/043621.769440:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://cn.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-spbxKh77MLZF1YO7iwlnHTATW9lSLLwDERaQdyeqioY='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://cn.bing.com/ (1)
+[1215/043621.782709:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://cn.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-spbxKh77MLZF1YO7iwlnHTATW9lSLLwDERaQdyeqioY='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://cn.bing.com/ (1)
+[1215/043623.325001:INFO:CONSOLE(7026)] "Starting with AC:5, DC:50px, return:null", source:  (7026)
+[1215/043623.326085:INFO:CONSOLE(7026)] "Processing Content Structure", source:  (7026)
+[1215/043623.589782:INFO:CONSOLE(7026)] "Processing Geometric Structure", source:  (7026)
+[1215/043623.777495:INFO:CONSOLE(7026)] "Pre-processing Logic Structure", source:  (7026)
+[1215/043623.811933:INFO:CONSOLE(7026)] "Processing Logic Structure", source:  (7026)
+[1215/043623.812304:INFO:CONSOLE(7778)] "Pass 1. -1 blocks were touched", source:  (7778)
+[1215/043624.432349:INFO:CONSOLE(2)] "[Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-spbxKh77MLZF1YO7iwlnHTATW9lSLLwDERaQdyeqioY='".
+", source: https://cn.bing.com/rp/uXkColSm33PJ9JCaP_qObg6pq8I.br.js (2)
+[1215/043624.448311:INFO:CONSOLE(2)] "[Report Only] Refused to compile or instantiate WebAssembly module because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-spbxKh77MLZF1YO7iwlnHTATW9lSLLwDERaQdyeqioY='".
+", source: https://cn.bing.com/rp/uXkColSm33PJ9JCaP_qObg6pq8I.br.js (2)

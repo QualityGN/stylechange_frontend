@@ -1,0 +1,16 @@
+[1215/043555.405724:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://cn.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-uQorqeUoLFc9/FfyAHo9xqncpr78OACUc4m6TcnGdvg='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://cn.bing.com/ (1)
+[1215/043555.417820:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://cn.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-uQorqeUoLFc9/FfyAHo9xqncpr78OACUc4m6TcnGdvg='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://cn.bing.com/ (1)
+[1215/043558.197164:INFO:CONSOLE(2)] "[Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-uQorqeUoLFc9/FfyAHo9xqncpr78OACUc4m6TcnGdvg='".
+", source: https://cn.bing.com/rp/uXkColSm33PJ9JCaP_qObg6pq8I.br.js (2)
+[1215/043558.201080:INFO:CONSOLE(2)] "[Report Only] Refused to compile or instantiate WebAssembly module because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-uQorqeUoLFc9/FfyAHo9xqncpr78OACUc4m6TcnGdvg='".
+", source: https://cn.bing.com/rp/uXkColSm33PJ9JCaP_qObg6pq8I.br.js (2)
+[1215/043558.367458:INFO:CONSOLE(7026)] "Starting with AC:4, DC:50px, return:null", source:  (7026)
+[1215/043558.368062:INFO:CONSOLE(7026)] "Processing Content Structure", source:  (7026)
+[1215/043558.510307:INFO:CONSOLE(7026)] "Processing Geometric Structure", source:  (7026)
+[1215/043558.624310:INFO:CONSOLE(7026)] "Pre-processing Logic Structure", source:  (7026)
+[1215/043558.642366:INFO:CONSOLE(7026)] "Processing Logic Structure", source:  (7026)
+[1215/043558.642584:INFO:CONSOLE(7778)] "Pass 1. -1 blocks were touched", source:  (7778)
+[1215/043559.079717:INFO:CONSOLE(0)] "The resource https://cn.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://cn.bing.com/ (0)
+[1215/043559.080001:INFO:CONSOLE(0)] "The resource https://s.cn.bing.net/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&qlt=50 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://cn.bing.com/ (0)

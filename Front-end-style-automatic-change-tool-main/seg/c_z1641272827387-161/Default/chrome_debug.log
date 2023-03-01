@@ -1,0 +1,9 @@
+[0104/130707.703022:ERROR:file_io.cc(94)] ReadExactly: expected 8, observed 0
+[0104/130707.706788:ERROR:xattr.cc(63)] setxattr org.chromium.crashpad.database.initialized on file /var/folders/gw/6hdynhjn50xdhd84ptd2kwd80000gn/T/: Operation not permitted (1)
+[0104/130709.613781:INFO:CONSOLE(7026)] "Starting with AC:3, DC:50px, return:null", source:  (7026)
+[0104/130709.614040:INFO:CONSOLE(7026)] "Processing Content Structure", source:  (7026)
+[0104/130709.617514:INFO:CONSOLE(7026)] "Processing Geometric Structure", source:  (7026)
+[0104/130709.631639:INFO:CONSOLE(7026)] "Pre-processing Logic Structure", source:  (7026)
+[0104/130709.635935:INFO:CONSOLE(7026)] "Processing Logic Structure", source:  (7026)
+[0104/130709.636110:INFO:CONSOLE(7778)] "Pass 1. -1 blocks were touched", source:  (7778)
+[0104/130709.637231:INFO:CONSOLE(7778)] "Pass 2. 1 blocks were touched", source:  (7778)

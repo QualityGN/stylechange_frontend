@@ -1,0 +1,7 @@
+[0906/090150.334732:INFO:CONSOLE(7026)] "Starting with AC:5, DC:50px, return:null", source:  (7026)
+[0906/090150.335011:INFO:CONSOLE(7026)] "Processing Content Structure", source:  (7026)
+[0906/090151.113188:INFO:CONSOLE(7026)] "Processing Geometric Structure", source:  (7026)
+[0906/090151.788866:INFO:CONSOLE(7026)] "Pre-processing Logic Structure", source:  (7026)
+[0906/090151.837669:INFO:CONSOLE(7026)] "Processing Logic Structure", source:  (7026)
+[0906/090151.837954:INFO:CONSOLE(7778)] "Pass 1. -1 blocks were touched", source:  (7778)
+[0906/090151.875673:INFO:CONSOLE(7778)] "Pass 2. 50 blocks were touched", source:  (7778)

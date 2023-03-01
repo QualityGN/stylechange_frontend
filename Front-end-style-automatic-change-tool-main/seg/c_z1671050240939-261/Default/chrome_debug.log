@@ -1,0 +1,15 @@
+[1215/043723.286367:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://cn.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-T7kH2JBGsgtgPz4ixjXCn3AIkATFNix0KxIsfJSaS1Q='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://cn.bing.com/ (1)
+[1215/043723.291459:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://cn.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-T7kH2JBGsgtgPz4ixjXCn3AIkATFNix0KxIsfJSaS1Q='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://cn.bing.com/ (1)
+[1215/043725.278707:INFO:CONSOLE(2)] "[Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-T7kH2JBGsgtgPz4ixjXCn3AIkATFNix0KxIsfJSaS1Q='".
+", source: https://cn.bing.com/rp/uXkColSm33PJ9JCaP_qObg6pq8I.br.js (2)
+[1215/043725.281064:INFO:CONSOLE(2)] "[Report Only] Refused to compile or instantiate WebAssembly module because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-T7kH2JBGsgtgPz4ixjXCn3AIkATFNix0KxIsfJSaS1Q='".
+", source: https://cn.bing.com/rp/uXkColSm33PJ9JCaP_qObg6pq8I.br.js (2)
+[1215/043725.373433:INFO:CONSOLE(7026)] "Starting with AC:6, DC:50px, return:null", source:  (7026)
+[1215/043725.373664:INFO:CONSOLE(7026)] "Processing Content Structure", source:  (7026)
+[1215/043725.469619:INFO:CONSOLE(7026)] "Processing Geometric Structure", source:  (7026)
+[1215/043725.525525:INFO:CONSOLE(7026)] "Pre-processing Logic Structure", source:  (7026)
+[1215/043725.537158:INFO:CONSOLE(7026)] "Processing Logic Structure", source:  (7026)
+[1215/043725.537344:INFO:CONSOLE(7778)] "Pass 1. -1 blocks were touched", source:  (7778)
+[1215/043725.538921:INFO:CONSOLE(7778)] "Pass 2. 2 blocks were touched", source:  (7778)

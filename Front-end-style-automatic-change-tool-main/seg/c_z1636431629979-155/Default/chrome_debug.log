@@ -1,0 +1,2 @@
+[1109/122030.616832:ERROR:file_io.cc(91)] ReadExactly: expected 8, observed 0
+[1109/122030.620095:ERROR:xattr.cc(63)] setxattr org.chromium.crashpad.database.initialized on file /var/folders/gw/6hdynhjn50xdhd84ptd2kwd80000gn/T/: Operation not permitted (1)

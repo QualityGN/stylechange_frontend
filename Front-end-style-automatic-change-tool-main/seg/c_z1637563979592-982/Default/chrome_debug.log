@@ -1,0 +1,18 @@
+[1122/145259.803314:ERROR:file_io.cc(94)] ReadExactly: expected 8, observed 0
+[1122/145259.805575:ERROR:xattr.cc(63)] setxattr org.chromium.crashpad.database.initialized on file /var/folders/gw/6hdynhjn50xdhd84ptd2kwd80000gn/T/: Operation not permitted (1)
+[1122/145301.557024:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_e1ff9df.js (258)
+[1122/145301.557318:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html color:red", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_e1ff9df.js (258)
+[1122/145304.206771:INFO:CONSOLE(7026)] "Starting with AC:8, DC:50px, return:null", source:  (7026)
+[1122/145304.206993:INFO:CONSOLE(7026)] "Processing Content Structure", source:  (7026)
+[1122/145304.958897:INFO:CONSOLE(7026)] "Processing Geometric Structure", source:  (7026)
+[1122/145305.721366:INFO:CONSOLE(7026)] "Pre-processing Logic Structure", source:  (7026)
+[1122/145305.744315:INFO:CONSOLE(7026)] "Processing Logic Structure", source:  (7026)
+[1122/145305.744486:INFO:CONSOLE(7778)] "Pass 1. -1 blocks were touched", source:  (7778)
+[1122/145305.747653:INFO:CONSOLE(7778)] "Pass 2. 4 blocks were touched", source:  (7778)
